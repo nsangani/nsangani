@@ -7,5 +7,5 @@
 - 💬 Ask me about the scope of Next Generation Sequencing in transcriptomics. 
 - 📫 How to reach me: nsangani@iu.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I hiked the steepest and most dangerous Angel's Landing trail in Zion National Park  while holding a gimbal to get the stunning views. 
+- ⚡ Fun fact: I hiked the steepest and most dangerous Angel's Landing trail in Zion National Park.
 
