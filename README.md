@@ -5,5 +5,5 @@
 - I have background in building NGS protein-RNA interaction pipeline. 
 - 📫 How to reach me: nsangani@iu.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I summited the steepest and most dangerous Angel's Landing trail in Zion National Park.
+- ⚡ Fun fact: I summited one of the steepest and dangerous Angel's Landing trail in Zion National Park.
 
