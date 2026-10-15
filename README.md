@@ -1,6 +1,6 @@
 ### Hi, I'm Neel Sangani
 
-- I’m also working on benchmarking CNV callers on sEOAD cohort with interest to identify common and different variants against LOAD.
+- I’m currently working on benchmarking CNV callers and detecting variants in sEOAD cohort with interest to identify common and different variants with respective to LOAD.
 - I have worked with MRI data to assess the progression of dementia in mild cognitive impaired patients'. 
 - I have background in building NGS protein-RNA interaction pipeline, named POP-seq.
 - I have worked on ChIP-seq, ATAC-seq, RNA-seq, and CLIP-seq projects.
